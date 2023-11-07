@@ -1,7 +1,7 @@
 What ?
 ------
 
-This repository contains my solutions to a huge number of [Leetcode](https://leetcode.com) problems.
+This repository contains my solutions to more than 1000 [Leetcode](https://leetcode.com) problems.
 All files are code fragments. They need the Leetcode environment for proper includes / imports / namespaces / etc.
 
 - [x] solved more **easy**   problems than 99% of Leetcode users
@@ -14,9 +14,9 @@ My [Leetcode profile](https://leetcode.com/stbrumme/) has more statistics.
 Why ?
 -----
 
-The main purpose **wasn't** solving these problems but upgrading my Python skills from _"beginner"_ to _"intermediate"_.
-There was a warm up with a few problems in C++ and then I switched to Python.
-For unknown reaaons, I solved all (free) SQL problems within a few days, too.
+Actually the main purpose **wasn't** solving these problems but upgrading my Python skills from _"beginner"_ to _"intermediate"_.
+There was a warm up period with a few problems in C++ and then I switched to Python.
+For unknown reaaons, I solved all (free) SQL and Bash problems within a few days, too.
 
 The focus **wasn't** on writing clean / readable / compact code but on experimenting with features of the Python3 core programming language.
 Therefore the code quality is much lower than my "polished" [Project Euler](https://euler.stephan-brumme.com) solutions.
@@ -37,6 +37,8 @@ Nevertheless, as of October 2023 the following plans are **100%** complete:
 - [x] Programming Skills  (only _free_ problems)
 - [x] Dynamic Programming (only _free_ problems)
 - [x] Binary Search       (only _free_ problems)
+
+Within 3 months I solved 1000 problems (August 7, 2023 - November 7, 2023).
 
 
 And finally ...
