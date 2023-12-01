@@ -1,12 +1,12 @@
 What ?
 ------
 
-This repository contains my solutions to more than 1000 [Leetcode](https://leetcode.com) problems.
+This repository contains my solutions to more than 1100 [Leetcode](https://leetcode.com) problems.
 All files are code fragments. They need the Leetcode environment for proper includes / imports / namespaces / etc.
 
 - [x] solved more **easy**   problems than 99% of Leetcode users
 - [x] solved more **medium** problems than 99% of Leetcode users
-- [x] solved more **hard**   problems than 98% of Leetcode users
+- [x] solved more **hard**   problems than 99% of Leetcode users
 
 My [Leetcode profile](https://leetcode.com/stbrumme/) has more statistics.
 
