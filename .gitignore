@@ -1,3 +1,4 @@
+.gitignore
 *.sh
 *.txt
 *.php
@@ -5,4 +6,4 @@
 *.png
 *.gif
 test/
-.gitignore
+prism.*
